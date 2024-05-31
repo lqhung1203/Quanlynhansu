@@ -1,0 +1,280 @@
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\QlNhansus.exe.config
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\QlNhansus.exe
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\QlNhansus.pdb
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QlNhanSu.csproj.AssemblyReference.cache
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QlNhanSu.csproj.SuggestedBindingRedirects.cache
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QLNhanSu.frmBangluong.resources
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QLNhanSu.frmBaohiem.resources
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QLNhanSu.frmChamcong.resources
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QLNhanSu.frmLogin.resources
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QLNhanSu.frmphongban.resources
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QLNhanSu.frmthongtinnv.resources
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QlNhansus.Properties.Resources.resources
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QlNhanSu.csproj.GenerateResource.cache
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QlNhanSu.csproj.CoreCompileInputs.cache
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QlNhansus.exe
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QlNhansus.pdb
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QlNhansus.frmTaikhoan.resources
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ReportPortal.Client.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\System.Buffers.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\System.Memory.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\System.Numerics.Vectors.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\System.Text.Encodings.Web.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\System.Text.Json.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\System.ValueTuple.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\EnvDTE.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\stdole.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ReportPortal.Client.xml
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\System.Buffers.xml
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\System.Memory.xml
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\System.Numerics.Vectors.xml
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\System.Text.Encodings.Web.xml
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\System.Text.Json.xml
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\System.ValueTuple.xml
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QlNhanSu.csproj.CopyComplete
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QlNhansus.frmTimKiem.resources
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.Shared.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QlNhansus.IndiachiNV.resources
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QLNhanSu.frmMain.resources
+D:\Lập Trình Ứng Dụng\QlNhansus\QlNhansus\obj\Debug\QlNhansus.InBacluongNV.resources
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\x86\SqlServerSpatial160.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\x64\SqlServerSpatial160.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\QlNhansus.exe.config
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\QlNhansus.exe
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\QlNhansus.pdb
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.Shared.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ReportPortal.Client.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\System.Buffers.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\System.Memory.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\System.Numerics.Vectors.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\System.Text.Encodings.Web.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\System.Text.Json.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\System.ValueTuple.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\EnvDTE.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\stdole.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ReportPortal.Client.xml
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\System.Buffers.xml
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\System.Memory.xml
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\System.Numerics.Vectors.xml
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\System.Text.Encodings.Web.xml
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\System.Text.Json.xml
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\System.ValueTuple.xml
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QlNhanSu.csproj.AssemblyReference.cache
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QlNhanSu.csproj.SuggestedBindingRedirects.cache
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QlNhansus.InBacluongNV.resources
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QlNhansus.IndiachiNV.resources
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QLNhanSu.frmBangluong.resources
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QLNhanSu.frmBaohiem.resources
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QLNhanSu.frmChamcong.resources
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QLNhanSu.frmLogin.resources
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QLNhanSu.frmphongban.resources
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QlNhansus.frmTaikhoan.resources
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QLNhanSu.frmthongtinnv.resources
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QlNhansus.frmTimKiem.resources
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QLNhanSu.frmMain.resources
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QlNhansus.Properties.Resources.resources
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QlNhanSu.csproj.GenerateResource.cache
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QlNhanSu.csproj.CoreCompileInputs.cache
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QlNhanSu.csproj.CopyComplete
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QlNhansus.exe
+D:\QuanLyNhanSu_Nhom16\QlNhansus\QlNhansus\obj\Debug\QlNhansus.pdb
